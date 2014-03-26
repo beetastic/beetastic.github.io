@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=640" />
+
+    <link rel="stylesheet" href="stylesheets/core.css" media="screen"/>
+    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)"/>
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css"/>
+
+    <script type="text/javascript" src="javascripts/modernizr.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+    <title>Beetastic.github.io by beetastic</title>
+  </head>
+
+  <body>
+    <a id="forkme_banner" href="https://github.com/beetastic">I can't Wait!</a>
+    <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>Anti-Deeps</h1>
+            <h2>Have you ever wanted to drink untested and possibly life threatening green soft drinks? Now you can! With the Peacock/Liggsspue partnership brand Anti-Deeps! It's a lot like drinking gasoline but instead you don't die, people don't think you're insane and You feel like Sanic Hegehog. WARNING:Large intake might cause your heart to explode</h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a><img src="http://3.bp.blogspot.com/-fwDqHP5OLYA/UV4IUqU4JII/AAAAAAAAO18/oFBguQgQFD8/s1600/IMG_8225.JPG" height="420" width="420"></a>
+
+<br>
+<h3>Own a eight pack for only $480.00 aka about 35 woodchips,8 strips of Maple Bacon, or 12 strips of beef jerky<h3>
