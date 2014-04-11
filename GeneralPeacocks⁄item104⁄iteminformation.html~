@@ -43,3 +43,5 @@
 
 <br>
 <h3>Own a eight pack for only $480.00 aka about 35 woodchips,8 strips of Maple Bacon, or 12 strips of beef jerky<h3>
+<form action="GeneralPeacock/item104/Purchase.html" method="get">
+<button type="submit" onclick="buy 20" formtarget="_self">BUY NOW!</button>
